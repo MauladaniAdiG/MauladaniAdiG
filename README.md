@@ -1,4 +1,5 @@
 ### Hi there, Welcome to My Github Profile 👋
+![](https://komarev.com/ghpvc/?username=your-github-MauladaniAdiG&style=flat-square)
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGtoemI3cG44Y3VrY2g2bTlyMmh2bjVhcDg0ZXlpYnkzN29teDFwOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k0ijJhqrUP4T2EvmJ1/giphy.gif" width=400>
 
@@ -29,5 +30,4 @@ Here are some ideas to get you started:
 </p>
 
 ## My Stats
-[![GitHub stats](https://github-readme-stats-gray-seven-16.vercel.app/api?username=MauladaniAdiG)]()
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MauladaniAdiG)]()
