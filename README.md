@@ -37,3 +37,4 @@ Experienced Flutter developer, who loves creating app quickly but structured. Ha
 
 ## Connect With Me
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mauladani-adi-gasbara-1440a0183/)
+[<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/@mauladaniadi)
