@@ -19,15 +19,24 @@ Here are some ideas to get you started:
 -->
 
 ## About Me
+Experienced Flutter developer, who loves creating app quickly but structured. Have expertise with Solid principle and clean architecture. Love creating reusable component code with easy to maintenance concept for the future changes
 - 🔭 Currently working in startup
-- 🌱 Currently learning Swift, Kotlin, Flutter
+
+## Tech Stack
+<div>
+  <img src = "https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Codeigniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src = "https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src = "https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</div>
 
 ## Connect With Me
 <p align = "center">
   
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mauladani-adi-gasbara-1440a0183/)
-
 </p>
-
-## My Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MauladaniAdiG)]()
